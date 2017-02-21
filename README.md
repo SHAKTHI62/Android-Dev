@@ -1,2 +1,2 @@
 # Android-Dev
-My personal android development repo
+Demo Android development repo
